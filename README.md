@@ -63,9 +63,6 @@ The site includes demo functionality: most buttons lead to a temporary page, and
 - Implement actual search functionality with database
 - Make social media icons and login system functional
 
-## Screenshot
-![Main page](images/screenshot2.png)
-
 ---
 
 ## 🇷🇺 Русский
