@@ -233,9 +233,9 @@ if (footerLogo) {
 }
 
 
-// ПЕРЕХОД НА СТРАНИЦУ index2.html
+// ПЕРЕХОД НА СТРАНИЦУ catalog.html
 function goToLoadingPage() {
-    window.location.href = 'index2.html';
+    window.location.href = 'catalog.html';
 }
 
 // Все кнопки на сайте
